@@ -2,6 +2,7 @@
 # TODO if user uses , for float numbers convert into .
 # TODO let the user keep turning in numbers till they type stop
 # TODO ability to continue with last result?
+# TODO user inputs x for multiply instead of *
 
 
 class Calculator:
